@@ -1,3 +1,2 @@
-function shout('hello!'){
-  return String
+function shout('String'){
 }
